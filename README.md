@@ -1,3 +1,4 @@
+![logo](https://github.com/harismemon13/harismemon13/blob/main/Gallery_1745863838162.jpg)
 <h1 align="center">Hi 👋, I'm HARIS MEMON</h1>
 <h3 align="center">A Passionate Website Developer From Karachi, Pakistan</h3>
 
