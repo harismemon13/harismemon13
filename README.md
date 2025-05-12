@@ -1,4 +1,4 @@
-![logo](https://github.com/harismemon13/harismemon13/blob/main/Gallery_1745863838162.jpg)
+![logo](https://github.com/harismemon13/harismemon13/blob/main/WhatsApp%20Image%202025-05-13%20at%201.26.49%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm HARIS MEMON</h1>
 <h3 align="center">A Passionate Website Developer From Karachi, Pakistan</h3>
 
